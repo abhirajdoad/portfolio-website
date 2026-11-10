@@ -1,6 +1,6 @@
 # Abhiraj Doad · Data analysis portfolio
 
-Live site: _added after the first deployment_
+Live site: https://portfolio-website-nu-drab-49.vercel.app
 
 A single-page portfolio of data analysis projects, each framed as a question answered with data. The site is plain HTML, CSS and JavaScript with no build step or dependencies. Charts are drawn as inline SVG from small summary tables embedded in the page.
 
